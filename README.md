@@ -29,3 +29,22 @@ To run this application locally, follow these steps:
 ```bash
 git clone https://github.com/your-username/ExploreAI.git
 cd ExploreAI
+
+### 2. Clone the repository
+
+```bash
+pip install -r requirements.txt
+
+### 3. Run The App
+
+```bash
+python app.py
+
+## Usage
+ - Open the app in your browser.
+
+ - In the Hero Section, click the "Upload Image" button to upload an image.
+
+ - The app will analyze the image and provide a description of the objects in the image.
+
+ - You will hear the description of the objects through the text-to-speech functionality.
