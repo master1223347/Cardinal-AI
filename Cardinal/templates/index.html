@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Cardinal</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+        <!-- Hero Section -->
+    <section id="hero">
+        <div class="hero-content">
+        <h1>See the World Through AI Eyes</h1>
+        <p>Upload any image and hear what our AI sees. Fast, smart, and fun!</p>
+        <a href="#upload-section" class="btn-primary">Upload an Image</a>
+        </div>
+    </section>
+  
+
+    <div class="upload-section" id="upload-section">
+        <h1>Cardinal - Your Path to Independence</h1>
+        <button id="upload-btn">Upload Image</button>
+        <input type="file" id="file-input" style="display: none;">
+        <div id="loading" style="display: none;">Analyzing... 🔥</div>
+        <div id="result"></div>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+
+        <!-- Explorer Section (Map Version) -->
+    <section id="explorer">
+        <div class="explorer-content">
+        <h2>Explore the World</h2>
+        <p>See different places around the globe!</p>
+        <div class="iframe-container">
+            <iframe 
+            src="https://www.openstreetmap.org/export/embed.html" 
+            frameborder="0" 
+            allowfullscreen
+            loading="lazy">
+            </iframe>
+        </div>
+        </div>
+    </section>
+  
+</body>
+</html>
