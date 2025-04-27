@@ -1,9 +1,9 @@
-# **ExploreAI** - Empowering the Visually Impaired with Cutting-Edge AI
+# **Cardinal** - Empowering the Visually Impaired with Cutting-Edge AI
 
 ## Description
-**ExploreAI** is a revolutionary web application designed to assist visually impaired individuals in exploring the world around them. By leveraging the power of cutting-edge artificial intelligence (AI) and image recognition technologies, this app provides users with real-time, spoken descriptions of their surroundings. With just a simple image upload, the app uses AI to analyze and identify objects within the image, providing valuable insights through text and audio output.
+**Cardinal** is a revolutionary web application designed to assist visually impaired individuals in exploring the world around them. By leveraging the power of cutting-edge artificial intelligence (AI) and image recognition technologies, this app provides users with real-time, spoken descriptions of their surroundings. With just a simple image upload, the app uses AI to analyze and identify objects within the image, providing valuable insights through text and audio output.
 
-Whether you're out in the park, at the grocery store, or simply sitting at home, **ExploreAI** helps you connect with your environment in ways that were never possible before. This app empowers visually impaired people to navigate their world confidently and independently.
+Whether you're out in the park, at the grocery store, or simply sitting at home, **Cardinal** helps you connect with your environment in ways that were never possible before. This app empowers visually impaired people to navigate their world confidently and independently.
 
 ## Features
 - **Image Upload**: Users can upload images of their surroundings, and the app will identify objects within the image using AI-powered image recognition.
@@ -27,8 +27,8 @@ To run this application locally, follow these steps:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/ExploreAI.git
-cd ExploreAI
+git clone https://github.com/your-username/Cardinal.git
+cd Cardinal
 ```
 
 ### 2. Install Requirements
