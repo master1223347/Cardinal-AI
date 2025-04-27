@@ -29,16 +29,19 @@ To run this application locally, follow these steps:
 ```bash
 git clone https://github.com/your-username/ExploreAI.git
 cd ExploreAI
+```
 
-### 2. Clone the repository
+### 2. Install Requirements
 
 ```bash
 pip install -r requirements.txt
+```
 
 ### 3. Run The App
 
 ```bash
 python app.py
+```
 
 ## Usage
  - Open the app in your browser.
