@@ -44,7 +44,7 @@ python app.py
 ```
 
 ## Usage
- - Open the app in your browser.
+ - Open the app in your browser. 
 
  - In the Hero Section, click the "Upload Image" button to upload an image.
 
